@@ -1,2 +1,2 @@
 # DSA-Lab1
-Editing README directly on GitHub main branch.
+Editing README locally on conflict-test branch.
