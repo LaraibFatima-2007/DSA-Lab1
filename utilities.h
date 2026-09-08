@@ -11,4 +11,4 @@
 // Declaring function for adding two integers
 int add(int a, int b);
 
-#endif // UTILITIES_H
+#endif // UTILITIES_H - End of Header Guard
